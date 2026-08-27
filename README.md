@@ -6,12 +6,10 @@
 
 <br/>
 
-### 🟣 **FULL STACK DEVELOPER**
+### 🟣 **WHO I AM**
 
 <p align="center" style="max-width: 600px; font-size: 15px;">
-  <b>A Full Stack Developer and problem solver with strong knowledge of modern web technologies and data structures.</b><br/>
-  I enjoy building scalable, efficient, and clean applications and writing maintainable code is a core principle in my workflow.<br/>
-  As a quick learner, I adapt to new technologies fast and continuously improve my skills to deliver better solutions.
+  <b>I am a person whose profession is Software Engineering, and whose hobby is also Software Engineering.</b><br/> My biggest achievement in my professional journey has been having the opportunity to solve problems for many people and contribute to their businesses. Even a small decision I made in a system has sometimes helped make their solutions more efficient. That’s why I always love learning how to make systems more and more efficient.
 </p>
 
 
