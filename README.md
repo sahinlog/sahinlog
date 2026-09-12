@@ -71,21 +71,21 @@
 
 <div align="center">
 
-<a href="https://sahin-portfolio.vercel.app/">
+<a href="https://sahinalam.sote/">
   <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sahin404/">
+<a href="https://www.linkedin.com/in/sahinlog/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/>
 
-<a href="https://www.hackerrank.com/profile/sahin404">
+<a href="https://www.hackerrank.com/profile/sahinlog">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/sahin404/">
+<a href="https://leetcode.com/u/sahinlog/">
   <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -100,7 +100,7 @@
 <!-- ============================ PROFILE VIEWS (BOTTOM) ============================ -->
 
 <div align="center">
-  <a href="https://github.com/sahin404">
+  <a href="https://github.com/sahinlog">
     <img src="https://komarev.com/ghpvc/?username=sahin404&color=ff0059&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
