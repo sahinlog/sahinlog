@@ -71,7 +71,7 @@
 
 <div align="center">
 
-<a href="https://sahinalam.sote/">
+<a href="https://sahinalam.site/">
   <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
