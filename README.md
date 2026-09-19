@@ -1,8 +1,8 @@
 <div align="center">
 
-<table width="100%">
+<table width="100%" style="border: none; border-collapse: collapse;">
 <tr>
-<td bgcolor="#1e1e1e" style="padding: 28px; border-radius: 12px; border: 1px solid #333333;">
+<td bgcolor="#1e1e1e" style="padding: 28px; border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
 
 <!-- macOS Window Header -->
 <div align="left" style="margin-bottom: 24px; font-size: 16px; letter-spacing: 2px;">
