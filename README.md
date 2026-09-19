@@ -1,114 +1,98 @@
-<!-- ============================ HEADER ============================ -->
+<div align="center">
+
+<table width="100%">
+<tr>
+<td bgcolor="#1e1e1e" style="padding: 28px; border-radius: 12px; border: 1px solid #333333;">
+
+<!-- macOS Window Header -->
+<div align="left" style="margin-bottom: 24px; font-size: 16px; letter-spacing: 2px;">
+  🔴 🟡 🟢 <span style="color: #8b949e; font-family: monospace; font-size: 13px; margin-left: 10px; letter-spacing: normal;">sahin@github ~ readme</span>
+</div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=160&section=header&text=Md.%20Sahin%20Alam&fontSize=45&fontColor=ffffff"/>
+# Md. Sahin Alam
+### **<span style="color: #58a6ff;">Full-Stack Software Engineer</span>**
 
-<br/>
-
-### 🟣 **WHO I AM**
-
-<p align="center" style="max-width: 600px; font-size: 15px;">
-  <b>I am a person whose profession is Software Engineering, and whose hobby is also Software Engineering.</b><br/> My biggest achievement in my professional journey has been having the opportunity to solve problems for many people and contribute to their businesses. Even a small decision I made in a system has sometimes helped make their solutions more efficient. That’s why I always love learning how to make systems more and more efficient.
+<p align="center">
+  <i>"Software Engineering isn't just my profession; it's genuinely my hobby!"</i>
 </p>
 
+<p align="center">
+  <a href="https://sahinalam.site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/sahinlog/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/sahinlog/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/RollNo85"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+</p>
 
 </div>
 
 <br/>
 
-<!-- ============================ DIVIDER ============================ -->
+### <span style="color: #bc8cff;">About Me</span>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━-9C27B0?style=for-the-badge" />
+I am a Full-Stack Developer with 1+ year of industry experience, currently engineering robust web solutions as a **Junior Associate Software Engineer** at **Softzino Technologies**. 
+
+* **Engineering Philosophy:** While AI can easily write code today, the real challenge lies in understanding whether that code actually fits into the broader system architecture or solves a true business problem. Small architectural decisions make systems efficient, and that is where I find my true engineering joy.
+* **End-to-End Ownership:** Experienced in taking complete project ownership - from system & database architecture, technical decisions, backend implementation, to production deployment.
+
+<br/>
+
+### <span style="color: #3fb950;">Tech Stack & Core Focus</span>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-4A3B32?style=flat-square&logo=zustand&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+<br/>
+
+> **System Development Workflow:**  
+> `Understand` ➔ `Architecture Design` ➔ `AI-Assisted Dev` ➔ `Code Review` ➔ `Testing & Debug` ➔ `Production Deploy` ➔ `Maintain`
+
+<br/>
+
+### <span style="color: #f0883e;">Professional Experience</span>
+
+* **Junior Associate Software Engineer** @ **Softzino Technologies** *(Jan 2026 – Present)*
+  * Contributed across production web applications, delivering high-performance client solutions and scalable corporate platforms.
+  * Working **NeoComerz** (a monorepo e-commerce builder platform); successfully built and integrated **25+ dynamic**, customizable multi-tenant e-commerce themes.
+  * Optimized complex frontend rendering pipelines and implemented smooth UI micro-interactions using GSAP.
+
+<br/>
+
+### <span style="color: #d2a8ff;">Competitive Programming & Problem Solving</span>
+
+* Solved **1000+ problems** in C++ across multiple online platforms, solidifying core algorithmic fundamentals and analytical problem-solving skills.
+* **Profiles & Ratings:** 
+  * <a href="https://leetcode.com/u/sahinlog/"><img src="https://img.shields.io/badge/LeetCode-sahin404-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a> (Max Rating: **1524**)
+  * <a href="https://codeforces.com/profile/RollNo85"><img src="https://img.shields.io/badge/Codeforces-RollNo85-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a> (Max Rating: **1190**)
+
+<br/>
+
+<!-- Profile View Count at the Very Bottom -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=sahin404&color=58a6ff&style=flat-square" alt="Profile Views" />
 </div>
 
-<br/>
+</td>
+</tr>
+</table>
 
-<!-- ============================ TECH STACK ============================ -->
-
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</div>
-
-<br/>
-
-<!-- ============================ GITHUB STATS ============================ -->
-
-<h3 align="center">📈 GitHub Stats</h3>
-
-<div align="center">
-
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=sahin404&theme=nightowl&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━-9C27B0?style=for-the-badge" />
-</div>
-
-<br/>
-
-<!-- ============================ CONNECT ============================ -->
-
-<h3 align="center">🔗 Connect with Me</h3>
-
-<div align="center">
-
-<a href="https://sahinalam.site/">
-  <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sahinlog/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/>
-
-<a href="https://www.hackerrank.com/profile/sahinlog">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/sahinlog/">
-  <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/RollNo85">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ============================ PROFILE VIEWS (BOTTOM) ============================ -->
-
-<div align="center">
-  <a href="https://github.com/sahinlog">
-    <img src="https://komarev.com/ghpvc/?username=sahin404&color=ff0059&style=for-the-badge" alt="Profile Views" />
-  </a>
-</div>
-
-<br/>
-
-<!-- ============================ FOOTER ============================ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=120&section=footer"/>
 </div>
